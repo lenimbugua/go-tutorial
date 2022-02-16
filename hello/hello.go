@@ -9,5 +9,4 @@ import (
 func main() {
 	message := greetings.Hello("Gladys")
 	fmt.Println(message)
-
 }
