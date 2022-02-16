@@ -1,3 +1,3 @@
-module github.com/lenimbugua/go-tutorial/greetings
+module greetings
 
 go 1.17
